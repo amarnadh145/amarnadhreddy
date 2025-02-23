@@ -1,5 +1,5 @@
 ## 👨‍💻 Amarnadh Reddy Mettu  
-**Data Science & Software Engineering Enthusiast | AI & Big Data Researcher**  
+**Data Science & Software Engineering Enthusiast | Computer Engineering Student**  
 
 📈 Passionate about building scalable applications and leveraging data for impactful solutions  
 🎓 **M.S. in Computer Engineering at New York University (GPA: 3.9/4.0)**  
@@ -14,7 +14,7 @@
 
 ### ✨ **Skills & Technologies**  
 - **Programming:** Python, Java, JavaScript, SQL (MySQL), NoSQL (MongoDB), HTML, CSS  
-- **Web Development:** React.js, Node.js, Express.js, Bootstrap  
+- **Web Development:** React.js, Node.js, Express.js
 - **Data Science & AI:** NumPy, Pandas, PyTorch, Machine Learning, TensorFlow, NLP  
 - **Big Data & Cloud:** AWS, Google Cloud Platform, Kubernetes, PySpark  
 - **Databases:** MySQL, MongoDB, SQL optimization  
