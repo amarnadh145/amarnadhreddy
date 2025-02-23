@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 👨‍💻 Amarnadh Reddy Mettu  
 **Data Science & Software Engineering Enthusiast | Computer Engineering Student**  
 
@@ -8,7 +10,11 @@
 🔍 Committed to solving real-world problems through **software innovation and AI**  
 
 📩 Reach me at **[am14305@nyu.edu](mailto:am14305@nyu.edu)**  
-**[LinkedIn](https://www.linkedin.com/in/amarnadhreddymettu/) | [GitHub](https://github.com/amarnadh145)**  
+
+<a href="https://www.linkedin.com/in/amarnadhreddymettu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://leetcode.com/u/amarnadh145/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+
+</div>
 
 ---
 
@@ -25,7 +31,7 @@
 ### 📚 **Education**  
 📚 **New York University, New York, NY**  
 **Master of Science in Computer Engineering** *(Jan 2024 - Jan 2026)*  
-- Relevant Coursework: Machine Learning, Big Data, Machine Learning Systems Engineering and Operations, Deep Learning, Java Programming, Computer Systems Architecture, Database Management Systens
+- Relevant Coursework: Machine Learning, Big Data, Machine Learning Systems Engineering and Operations, Deep Learning, Java Programming, Computer Systems Architecture, Database Management Systems  
 
 📚 **Gayatri Vidya Parishad College of Engineering, India**  
 **Bachelor of Technology in Computer Science & Engineering** *(Aug 2019 - Aug 2023)*  
