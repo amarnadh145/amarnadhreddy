@@ -25,7 +25,7 @@
 ### 📚 **Education**  
 📚 **New York University, New York, NY**  
 **Master of Science in Computer Engineering** *(Jan 2024 - Jan 2026)*  
-- Relevant Coursework: Machine Learning, Big Data Analytics, Cloud Computing, Cryptography, Full-Stack Development  
+- Relevant Coursework: Machine Learning, Big Data, Machine Learning Systems Engineering and Operations, Deep Learning, Java Programming, Computer Systems Architecture, Database Management Systens
 
 📚 **Gayatri Vidya Parishad College of Engineering, India**  
 **Bachelor of Technology in Computer Science & Engineering** *(Aug 2019 - Aug 2023)*  
